@@ -1,0 +1,6 @@
+def calc():
+    pass
+
+
+
+calc()
